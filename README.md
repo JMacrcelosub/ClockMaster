@@ -6,9 +6,9 @@
 </h1>
    <div  align="center">
       <img src="https://img.shields.io/github/license/runtimepoet/ClockMaster?style=for-the-badge&color=cba6f7&labelColor=302D41">
-      <img src="https://img.shields.io/github/last-commit/PranshulGG/ClockMaster?style=for-the-badge&color=b1d18a&labelColor=1f3701">
+      <img src="https://img.shields.io/github/last-commit/runtimepoet/ClockMaster?style=for-the-badge&color=b1d18a&labelColor=1f3701">
       <br>
-      <img src="https://img.shields.io/github/release/PranshulGG/ClockMaster?style=for-the-badge&color=dbc66e&labelColor=3a3000">
+      <img src="https://img.shields.io/github/release/runtimepoet/ClockMaster?style=for-the-badge&color=dbc66e&labelColor=3a3000">
       <br>
       <br>
 
