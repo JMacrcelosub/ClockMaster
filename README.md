@@ -8,7 +8,6 @@
       <img src="https://img.shields.io/github/license/runtimepoet/ClockMaster?style=for-the-badge&color=cba6f7&labelColor=302D41">
       <img src="https://img.shields.io/github/last-commit/runtimepoet/ClockMaster?style=for-the-badge&color=b1d18a&labelColor=1f3701">
       <br>
-      <img src="https://img.shields.io/github/release/runtimepoet/ClockMaster?style=for-the-badge&color=dbc66e&labelColor=3a3000">
       <br>
       <br>
 
@@ -24,7 +23,6 @@
    
    </div>
 <div align="center">
- <a href="https://github.com/runtimepoet/ClockMaster/releases"><img alt="GitHub" src="https://user-images.githubusercontent.com/69304392/148696068-0cfea65d-b18f-4685-82b5-329a330b1c0d.png" height="80"/></a>
    </div>
 <br>
 
